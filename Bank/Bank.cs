@@ -1,4 +1,4 @@
-﻿namespace Bank;
+﻿namespace BankProj;
 
 public class Bank // Класс відповідно до варіанту 
 {
